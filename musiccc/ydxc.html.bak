@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="Ayyang">
+  <meta name="Keywords" content="五月天">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style type="text/css">
+	*{margin:0px;padding:0px;}
+	body{font-family:"YouYuan"}
+    #container{margin:0 auto;width:900px;height:2500px;
+		           background-color:#a8d5d5;padding: 30px 30px; }
+	#kuang{width:840px;height:2400px;background-color:#ffffcc;
+			border:2px double #330000; border-radius:50px;
+						box-shadow:5px 5px 10px #000000 } 
+	#dh{height:60px; width:800px;margin:15px 20px;
+		       background-color:#000000;float:left;
+		       border:2px double #330000; border-radius:300px;}
+	#dhan{height:35px; width:100px; margin:10px 10px 30px; 
+		          padding-left:19px;padding-right:19px;padding-top:2px;
+				  background-color:#e1d7bd;float:left;
+		          border:2px solid #330000; border-radius:100px;
+			      font-family:"YouYuan";font-weight:bolder;
+			      line-height:35px;text-align:center;
+				  font-color:}
+	a:link{color:#000099;text-decoration:none;}
+	a:visited{color:#660033;text-decoration:none;}
+	a:hover{color:#0066ff;text-decoration:;}
+	a:active{color:;text-decoration:none;}
+    #wk{height:2200px; width:720px;margin:0px 15px 10px 7px;float:left;
+			padding:30px 30px 30px 30px;background-color:#e4e1c0;
+		    border:2px double #330000; border-radius:30px;
+			line-height:30px;font-weight:bolder;}
+	#xk1{height:280px; width:400px; border:5px double #330000;
+	     margin:10px 0px 10px 0px;float:left;overflow: hidden;}
+
+	#xk2{height:280px; width:280px; border:5px double #330000;
+	     margin:10px 10px 10px 10px;float:left;overflow: hidden;}
+	#xk3{height:600px; width:400px; border:5px double #330000;
+	     margin:0px 0px 0px 0px;float:left;overflow: hidden;}
+	#xk4{height:600px; width:280px; border:5px double #330000;
+	     margin:0px 10px 0px 10px;float:left;overflow: hidden;}
+    
+  </style>
+ </head>
+ <body>
+<div id="container">
+   <div id="kuang">
+    <div id="dh">
+	<div id="dhan">
+		<a href="D:\a  网页设计\a 网页设计作业\index.html">--返回首页--</a>
+	</div>
+	<div id="wk">
+		<div id="xk1">
+			<img src="image/微信图片_202211201016549.jpg" width="400" height="300" >
+		</div>
+		<div id="xk2">
+			<img src="image/微信图片_202211201016542.jpg" width="280" height="350">
+		</div>
+		<div id="xk3">
+			<img src="image/微信图片_202211201016541.jpg" width="450" height="600" >
+		</div>
+		<div id="xk4">
+			<img src="image/微信图片_202211201016548.jpg" width="300" height="800">
+		</div>
+		<div id="xk1">
+			<img src="image/微信图片_202211201016547.jpg" width="400" height="300">
+		</div>
+		<div id="xk2">
+			<img src="image/微信图片_2022112010165412.jpg" width="380" height="350">
+		</div>
+		<div id="xk3">
+			<img src="image/微信图片_202211201016544.jpg" width="450" height="600">
+		</div>
+		<div id="xk4">
+			<img src="image/微信图片_2022112010165410.jpg" width="280" height="800">
+		</div>
+		<div id="xk1">
+			<img src="image/微信图片_2022112010165437.jpg" width="400" height="500">
+		</div>
+		<div id="xk2">
+			<img src="image/微信图片_2022112010165421.jpg" width="382" height="368" border="0" alt="">
+        </div>
+	
+		
+		
+	</div>
+		
+    </div>
+   </div>	
+</div>
+    
+ </body>
+</html>

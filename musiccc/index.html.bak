@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="Ayyang">
+  <meta name="Keywords" content="五月天">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style type="text/css">
+	*{margin:0px;padding:0px;}
+	body{font-family:"YouYuan"}
+    #container{margin:0 auto;width:900px;height:1300px;
+		           background-color:#a8d5d5;padding: 30px 30px; }
+	#kuang{width:840px;height:1200px;background-color:#ffffcc;
+			border:2px double #330000; border-radius:50px;
+						box-shadow:5px 5px 10px #000000 } 
+	#dh{height:60px; width:800px;margin:15px 20px;
+		       background-color:#000000;float:left;
+		       border:2px double #330000; border-radius:300px;}
+	#dhan{height:35px; width:100px; margin:10px 10px 30px; 
+		          padding-left:19px;padding-right:19px;padding-top:2px;
+				  background-color:#e1d7bd;float:left;
+		          border:2px solid #330000; border-radius:100px;
+			      font-family:"YouYuan";font-weight:bolder;
+			      line-height:35px;text-align:center;
+				  font-color:}
+    #logo{height:40px; width:150px;float:left;}
+	#dt{height:400px; width:800px;margin:0px 15px 10px 18px;float:left;
+		       border:2px double #330000; border-radius:30px;}
+    section{position:relative;width:800px;height:400px;overflow:hidden}
+	ul{position:absolute;display:flex;animation:move 10s infinite;}
+	@keyframes move{0%{left:0%;}15%{left:0%;}20%{left:-100%;}35%{left:-100%;}
+				    40%{left:-200%;}55%{left:-200%;}60%{left:-300%;}
+				    75%{left:-300%;}80%{left:-400%;}100%{left:-400%;}}
+    img{border-radius:30px;}
+	a:link{color:#000099;text-decoration:none;}
+	a:visited{color:#660033;text-decoration:none;}
+	a:hover{color:#0066ff;text-decoration:;}
+	a:active{color:;text-decoration:none;}
+	#gddh{height:50px; width:800px;margin:10px 15px 10px 18px;float:left;
+		border:2px double #330000; border-radius:30px;background-color:#404040;
+		/* padding-left:50px */}
+	#gddhan{height:35px; width:60px; margin:5px 30px 5px 60px; 
+				padding-top:2px;
+				  background-color:#741d10;float:left;
+		          border:2px solid #330000; border-radius:100px;
+			      font-weight:bolder;font-size:30px;
+			      line-height:35px;text-align:center;color:#ffffff}
+	#bfj{height:300px; width:300px;margin:10px 15px 10px 30px;float:left;
+		border:2px double #330000; border-radius:30px;background-color:#ccffff;}
+	video{/* overflow:hidden;*/border-radius:30px;}
+	#gqlb{height:300px; width:400px;margin:12px 15px 10px 20px;float:left;
+		   border:2px double #330000;padding-left:30px;
+		   border-radius:30px;background-color:#e1d7bd;}
+	#gdlb{font-family:sans-serif;-ms-text-size-adjust: 100%;
+	     -webkit-text-size-adjust: 100%;font-weight:bolder;}
+	table {width:400px;height:300px;border-spacing: 10px 10px;}
+	th, td {border-bottom: 1px solid black;}
+	#zjj{height:250px; width:770px;margin:15px 15px 10px 30px;float:left;
+		       border:2px double #330000; border-radius:30px;background-color:#e3d3b9}
+	#zjk{height:200px;width:200px;border:4px double #330000;
+			margin:24px 15px 10px 32px;float:left}
+	#zjk section{position:relative;width:200px;height:200px;overflow:hidden}
+	ul{position:absolute;display:flex;animation:move 10s infinite;}
+	@keyframes move{0%{left:0%;}15%{left:0%;}20%{left:-100%;}35%{left:-100%;}
+				    40%{left:-200%;}55%{left:-200%;}60%{left:-300%;}
+				    75%{left:-300%;}80%{left:-400%;}100%{left:-400%;}}
+	#zjk img{border-radius:0px;}
+	#bq{width:840px;height:70px;background-color:#ffffcc;
+			border:2px double #330000; border-radius:50px;
+			margin:20px 0px; box-shadow:5px 5px 10px #000000;
+			font-size:20px; line-height:70px;font-weight:bolder;} 
+
+
+  </style>
+ </head>
+ <body>
+<div id="container">
+   <div id="kuang">
+	 <div id="dh">
+	 <div id="dhan"><a href="..\a 网页设计作业\cyjs\cyjs1.html">--成员介绍--</a></div>
+	 <div id="dhan"><a href="..\a 网页设计作业\yyjl.html">--演艺经历--</a></div> 
+	 <div id="logo"><img src="..\a 网页设计作业\image\logo2.jpg" width="170" height="60"></div>
+	 <div id="dhan"><a href="..\a 网页设计作业\livexc.html">--live现场--</a></div>
+	 <div id="dhan"><a href="..\a 网页设计作业\ydxc.html">--乐队相册--</a></div>
+	 </div>
+	 <div id="dt">
+	    <section>
+			<ul> 
+			<li><img class="c1" src="image/首页大图.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/微信图片_202211201016545.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/微信图片_2022112010165411.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/微信图片_2022112010165435.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/hz.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/首页大图.jpg" width="800" height="400"></li>
+			<li><img class="c1" src="image/首页大图.jpg" width="800" height="400"></li>
+			</ul>
+	    </section>	
+	 </div>
+	 <div id="gddh">
+	      <div id="gddhan">黑</div>
+		  <div id="gddhan">胶</div>	
+		  <div id="gddhan">放</div>	
+		  <div id="gddhan">映</div>	
+		  <div id="gddhan">厅</div>
+		  
+	 </div>
+	 <div id="bfj">
+	 <video src="video\bfqsp1.mp4"type="video/mp4" 
+				muted="true" autoplay="autoplay" loop="loop"  height="300"; width="300";></video>
+	 </div>
+	 <div id="gqlb">
+		
+			<table>
+			<tr><td><a href="music\五月天 - 步步.mp3">♪-------------------步 步---------------------♫</a></td></tr>
+			<tr><td><a href="music\仓颉 - 五月天.mp3">♬------------------仓  颉---------------------♩</a></td></tr>
+			<tr><td><a href="music\恋爱ing (电视剧《门当父不对》片头曲) - 五月天.mp3">♪----------------恋 爱 i n g------------------♫</a></td></tr>
+			<tr><td><a href="music\五月天 - 干杯 (Life Live).mp3">♬------------------干 杯---------------------♩</a></td></tr>
+			<tr><td><a href="music\五月天 - 志明与春娇 (Live).mp3">♪---------------志 明 与 春 娇----------------♫</a></td></tr>
+			<tr><td><a href="music\突然好想你 live in the sky - 五月天,李荣浩,萧敬腾,毛不易.mp3">♬--------------突 然 好 想 你----------------♩</a></td></tr>
+			<tr><td><a href="music\五月天 - 后来的我们.mp3">♪---------------后 来 的 我 们----------------♫</a></td></tr>
+			
+			</table>
+		
+
+	 </div>
+	 <div id="zjj">
+		<div id="zjk">
+			<section>
+			<ul> 
+			<li><img class="c1" src="image/微信图片_20221120105521.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201055212.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_20221120112518.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201125183.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_20221120105521.jpg" width="200" height="200"></li>
+			</ul>
+	    </section>	
+		</div>
+		<div id="zjk">
+			<section>
+			<ul> 
+			<li><img class="c1" src="image/微信图片_202211201055215.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201055214.jpg" width="200" height="200"></li>		
+			<li><img class="c1" src="image/微信图片_202211201125181.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201125184.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201055215.jpg" width="200" height="200"></li>
+			
+			</ul>
+			</section>	
+		</div>
+		<div id="zjk">
+		    <section>
+			<ul> 
+			<li><img class="c1" src="image/微信图片_202211201055211.jpg"width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201055213.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201125182.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201125185.jpg" width="200" height="200"></li>
+			<li><img class="c1" src="image/微信图片_202211201055211.jpg"width="200" height="200"></li>
+			</ul>
+			</section>	
+			
+		</div>
+	 </div>
+   </div>
+   <div id="bq">
+	   ----------------------------版权所有：Ayyang-徐静雅------------------------------
+   </div>
+</div>
+    
+ </body>
+</html>
